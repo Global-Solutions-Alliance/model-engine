@@ -1,0 +1,6 @@
+"SOURCE ID: Author/Org, Date, Info",Link,World / Drawdown Region,Specific Geographic Location,Source Validation Code,Year / Date,License Code,Raw Data Input,Original Units,Conversion calculation,Common Units,Weight,Assumptions,Exclude Data?
+"Project Drawdown, med (based on meta-analysis of LCA reductions)",Advanced Controls,World,,,,,-1632916.6666666667,t CO2-eq/MMT polymers,729888.2113821136,t CO2-eq/MMt of Plastic Produced Annually,,,True
+"Project Drawdown, High (based on meta-analysis of LCA reductions)",Advanced Controls,World,,,,,-606139.3852428187,t CO2-eq/MMT polymers,2621065.8691987023,t CO2-eq/MMt of Plastic Produced Annually,,,True
+"Project Drawdown, Low (based on meta-analysis of LCA reductions)",Advanced Controls,World,,,,,-2659693.9480905146,t CO2-eq/MMT polymers,-1161289.446434475,t CO2-eq/MMt of Plastic Produced Annually,,,True
+Biodegradable bioplastics Sub-Solution,PD VMA#27,,,,,,1096781.25,t CO2-eq/MMt of Plastic Produced Annually,1096781.25,t CO2-eq/MMt of Plastic Produced Annually,0.657608897893085,,False
+Non-biodegradable bioplastics Sub-Solution,PD VMA#28,,,,,,560000.0,t CO2-eq/MMt of Plastic Produced Annually,560000.0,t CO2-eq/MMt of Plastic Produced Annually,0.34239110210691487,,False

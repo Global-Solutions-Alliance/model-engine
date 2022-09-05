@@ -1,0 +1,47 @@
+{
+    "Baseline Cases": {
+        "Project Drawdown Integrated Building TAM Model v1.1 - Commercial HIGH": "tam_Project_Drawdown_Integrated_Building_TAM_Model_v1_1_Commercial_HIGH.csv",
+        "Project Drawdown Integrated Building TAM Model v1.1 - Commercial LOW": "tam_Project_Drawdown_Integrated_Building_TAM_Model_v1_1_Commercial_LOW.csv",
+        "Project Drawdown Integrated Building TAM Model v1.1 - Commercial AVERAGE": "tam_Project_Drawdown_Integrated_Building_TAM_Model_v1_1_Commercial_AVERAGE.csv"
+    },
+    "Region: OECD90": {
+        "Ambitious Cases": {
+            "Project Drawdown Integrated Building TAM Model v1.1 - Commercial AVERAGE": "tam_Project_Drawdown_Integrated_Building_TAM_Model_v1_1_Commercial_AVERAGE.csv"
+        }
+    },
+    "Region: Eastern Europe": {
+        "Ambitious Cases": {
+            "Project Drawdown Integrated Building TAM Model v1.1 - Commercial AVERAGE": "tam_Project_Drawdown_Integrated_Building_TAM_Model_v1_1_Commercial_AVERAGE.csv"
+        }
+    },
+    "Region: Asia (Sans Japan)": {
+        "Ambitious Cases": {
+            "Project Drawdown Integrated Building TAM Model v1.1 - Commercial AVERAGE": "tam_Project_Drawdown_Integrated_Building_TAM_Model_v1_1_Commercial_AVERAGE.csv"
+        }
+    },
+    "Region: Middle East and Africa": {
+        "Ambitious Cases": {
+            "Project Drawdown Integrated Building TAM Model v1.1 - Commercial AVERAGE": "tam_Project_Drawdown_Integrated_Building_TAM_Model_v1_1_Commercial_AVERAGE.csv"
+        }
+    },
+    "Region: Latin America": {
+        "Ambitious Cases": {
+            "Project Drawdown Integrated Building TAM Model v1.1 - Commercial AVERAGE": "tam_Project_Drawdown_Integrated_Building_TAM_Model_v1_1_Commercial_AVERAGE.csv"
+        }
+    },
+    "Region: China": {
+        "Ambitious Cases": {
+            "Project Drawdown Integrated Building TAM Model v1.1 - Commercial AVERAGE": "tam_Project_Drawdown_Integrated_Building_TAM_Model_v1_1_Commercial_AVERAGE.csv"
+        }
+    },
+    "Region: India": {
+        "Ambitious Cases": {
+            "Project Drawdown Integrated Building TAM Model v1.1 - Commercial AVERAGE": "tam_Project_Drawdown_Integrated_Building_TAM_Model_v1_1_Commercial_AVERAGE.csv"
+        }
+    },
+    "Region: EU": {
+        "Ambitious Cases": {
+            "Project Drawdown Integrated Building TAM Model v1.1 - Commercial AVERAGE": "tam_Project_Drawdown_Integrated_Building_TAM_Model_v1_1_Commercial_AVERAGE.csv"
+        }
+    }
+}
