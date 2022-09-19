@@ -1,0 +1,17 @@
+[
+    {
+        "name": "PDS 1  - Dec2019",
+        "filename": "ca_pds_PDS_1_Dec2019.csv",
+        "description": "Real data is used to 2018. A conservative projection is used to 2023 (from EUBP). The total addressable market was constrained to 90% substitution, assuming 10% of market will be captive to traditional plastics due to nature of use. A 3rd degree polynomial trendline was used to interpolate data between 2023-2060, assuming that 13% of the replaceable market will be bioplastics by 2050, based on the average of baseline adoption scenarios. A further constraint on available feestock was applied based on Project Drawdown analysis."
+    },
+    {
+        "name": "PDS 2 Dec2019",
+        "filename": "ca_pds_PDS_2_Dec2019.csv",
+        "description": "Real data is used to 2018. A conservative projection is used to 2023 (from EUBP). The total addressable market was constrained to 90% substitution, assuming 10% of market will be captive to traditional plastics due to nature of use. A 3rd degree polynomial trendline was used to interpolate data between 2023-2060, assuming that 51% of the replaceable market will be bioplastics by 2050, based on the average of baseline adoption scenarios. A further constraint on available feestock was applied based on Project Drawdown analysis."
+    },
+    {
+        "name": "PDS 3 Dec2019",
+        "filename": "ca_pds_PDS_3_Dec2019.csv",
+        "description": "Real data is used to 2018. The USDA projected growth rate is used to 2025. The total addressable market was constrained to 90% substitution, assuming 10% of market will be captive to traditional plastics due to nature of use, and a 3rd degree polynomial trend line was used to interpolate data between 2023-2060. A 784 MMt constraint on available feestock in year 2050 was applied based on Project Drawdown analysis from the Biomass Model Optimum Scenario."
+    }
+]

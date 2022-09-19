@@ -1,0 +1,14 @@
+{
+    "Baseline Cases": {
+        "Drawdown Integrated TAM - Commercial High - Only OECD90 (see TAM Selection sheet)": "tam_Drawdown_Integrate_0f424a4d.csv",
+        "Drawdown Integrated TAM - Commercial Low - Only OECD90 (see TAM Selection sheet)": "tam_Drawdown_Integrate_288cdd38.csv",
+        "Drawdown Integrated TAM - Commercial Average - Only OECD90 (see TAM Selection sheet)": "tam_Drawdown_Integrate_88fa8377.csv"
+    },
+    "Region: OECD90": {
+        "Baseline Cases": {
+            "Drawdown Integration Buildings TAM Analysis (Commercial High) - See TAM Selection Sheet": "tam_Drawdown_Integrati_0fd62b44.csv",
+            "Drawdown Integration Buildings TAM Analysis (Commercial Low) - See TAM Selection Sheet": "tam_Drawdown_Integrati_8c639af4.csv",
+            "Drawdown Integration Buildings TAM Analysis (Commercial Average) - See TAM Selection Sheet": "tam_Drawdown_Integrati_29a959e6.csv"
+        }
+    }
+}

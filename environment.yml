@@ -1,0 +1,17 @@
+name: pd-dev
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - pandas=1.2.4
+  - bokeh
+  - pylint
+  - pytest
+  - pip
+  - pip:
+    - fair>=1.6.4
+    - numpy-financial
+    - openpyxl
+    - units-of-measure~=1.0

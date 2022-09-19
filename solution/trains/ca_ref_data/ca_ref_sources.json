@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Drawdown Book Reference Scenario",
+        "filename": "ca_ref_Drawdown_Book_R_02f0ccf3.csv",
+        "description": "This scenario uses the inputs that were used for the Scenario developed for the Drawdown Book Edition 1. The scenario assumes a fixed percent of the TAM is adopted for Efficient trucks as the TAM grows."
+    },
+    {
+        "name": "Default REF Projection with Adjustment for Recent Historical Adoptions",
+        "filename": "ca_ref_Default_REF_Pro_f3a0064c.csv",
+        "description": "We take the Default Project Drawdown REF adoption using Average Baseline TAM data and then adjust the years 2012-2018 to be the estimated historical adoptions from the Adoption1."
+    }
+]

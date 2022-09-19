@@ -1,0 +1,3 @@
+Old version of emissions factors.  I treated it as a test failure, instead
+of changing the grid_version parameter on the Emissions Factors class.
+No particular reason --- solution doesn't use electricity, so it doesn't matter.

@@ -1,0 +1,8 @@
+"SOURCE ID: Author/Org, Date, Info",Link,World / Drawdown Region,Specific Geographic Location,Source Validation Code,Year / Date,License Code,Raw Data Input,Original Units,Conversion calculation,Common Units,Weight,Assumptions,Exclude Data?
+ITF,https://www.itf-oecd.org/sites/default/files/life-cycle-assessment-calculations-2020.xlsx,World,,2 - Public Sector/ Multilateral Agency,2020,,24.0,g CO2-e/PKM,24000.0,t CO2-eq/ Billion PKM,0.399,Car ICE,
+ITF,https://www.itf-oecd.org/sites/default/files/life-cycle-assessment-calculations-2020.xlsx,World,,2 - Public Sector/ Multilateral Agency,2020,,26.0,g CO2-e/PKM,26000.0,t CO2-eq/ Billion PKM,0.006,Car Hybrid,
+ITF,https://www.itf-oecd.org/sites/default/files/life-cycle-assessment-calculations-2020.xlsx,World,,2 - Public Sector/ Multilateral Agency,2020,,42.0,g CO2-e/PKM,42000.0,t CO2-eq/ Billion PKM,0.002,Car Electric,
+ITF,https://www.itf-oecd.org/sites/default/files/life-cycle-assessment-calculations-2020.xlsx,World,,2 - Public Sector/ Multilateral Agency,2020,,38.0,g CO2-e/PKM,38000.0,t CO2-eq/ Billion PKM,0.016,Car other (fuel cell etc.),
+ITF,https://www.itf-oecd.org/sites/default/files/life-cycle-assessment-calculations-2020.xlsx,World,,2 - Public Sector/ Multilateral Agency,2020,,8.0,g CO2-e/PKM,8000.0,t CO2-eq/ Billion PKM,0.145,Moped as proxy for 2W & 3W,
+ITF,https://www.itf-oecd.org/sites/default/files/life-cycle-assessment-calculations-2020.xlsx,World,,2 - Public Sector/ Multilateral Agency,2020,,8.0,g CO2-e/PKM,8000.0,t CO2-eq/ Billion PKM,0.303,Bus ICE 92% of PT,
+ITF,https://www.itf-oecd.org/sites/default/files/life-cycle-assessment-calculations-2020.xlsx,World,,2 - Public Sector/ Multilateral Agency,2020,,2.0,g CO2-e/PKM,2000.0,t CO2-eq/ Billion PKM,0.026,Metro 8% of PT,

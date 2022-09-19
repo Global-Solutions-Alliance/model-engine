@@ -1,0 +1,86 @@
+{
+    "Baseline Cases": {
+        "ETP 2016, URBAN 6 DS + Non-motorized Travel Adjustment-PDS Pop Adjustment": "tam_ETP_2016_URBAN_6_D_205397be.csv",
+        "ICCT, 2012, \"Global Transportation Roadmap Model\" + Non-motorized Travel Adjustment-PDS Pop Adjustment": "tam_ICCT_2012_Global_T_3fdc803d.csv"
+    },
+    "Conservative Cases": {
+        "ETP 2016, URBAN 4 DS + Non-motorized Travel Adjustment-PDS Pop Adjustment": "tam_ETP_2016_URBAN_4_D_69246da2.csv",
+        "ITDP/UC Davis (2014)  A Global High Shift Scenario Updated Report Data - Baseline Scenario-PDS Pop Adjustment": "tam_ITDPUC_Davis_2014__8eda8eb4.csv"
+    },
+    "Ambitious Cases": {
+        "ETP 2016, URBAN 2 DS + Non-motorized Travel Adjustment-PDS Pop Adjustment": "tam_ETP_2016_URBAN_2_D_df42d6d2.csv",
+        "ITDP/UC Davis (2014)  A Global High Shift Scenario Updated Report Data - HighShift Scenario-PDS Pop Adjustment": "tam_ITDPUC_Davis_2014__7959213f.csv"
+    },
+    "Region: OECD90": {
+        "Baseline Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data - URBAN MOBILITY- Baseline": "tam_Based_onITDP_UC_Da_a43fe51e.csv"
+        },
+        "Ambitious Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data -URBAN MOBILITY- High shift": "tam_Based_onITDP_UC_Da_61f1fb06.csv"
+        }
+    },
+    "Region: Eastern Europe": {
+        "Baseline Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data - URBAN MOBILITY- Baseline": "tam_Based_onITDP_UC_Da_a43fe51e.csv"
+        },
+        "Ambitious Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data -URBAN MOBILITY- High shift": "tam_Based_onITDP_UC_Da_61f1fb06.csv"
+        }
+    },
+    "Region: Asia (Sans Japan)": {
+        "Baseline Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data - URBAN MOBILITY- Baseline": "tam_Based_onITDP_UC_Da_a43fe51e.csv"
+        },
+        "Ambitious Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data -URBAN MOBILITY- High shift": "tam_Based_onITDP_UC_Da_61f1fb06.csv"
+        }
+    },
+    "Region: Middle East and Africa": {
+        "Baseline Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data - URBAN MOBILITY- Baseline": "tam_Based_onITDP_UC_Da_a43fe51e.csv"
+        },
+        "Ambitious Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data -URBAN MOBILITY- High shift": "tam_Based_onITDP_UC_Da_61f1fb06.csv"
+        }
+    },
+    "Region: Latin America": {
+        "Baseline Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data - URBAN MOBILITY- Baseline": "tam_Based_onITDP_UC_Da_a43fe51e.csv"
+        },
+        "Ambitious Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data -URBAN MOBILITY- High shift": "tam_Based_onITDP_UC_Da_61f1fb06.csv"
+        }
+    },
+    "Region: China": {
+        "Baseline Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data - URBAN MOBILITY- Baseline": "tam_Based_onITDP_UC_Da_a43fe51e.csv"
+        },
+        "Ambitious Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data -URBAN MOBILITY- High shift": "tam_Based_onITDP_UC_Da_61f1fb06.csv"
+        }
+    },
+    "Region: India": {
+        "Baseline Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data - URBAN MOBILITY- Baseline": "tam_Based_onITDP_UC_Da_a43fe51e.csv"
+        },
+        "Ambitious Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data -URBAN MOBILITY- High shift": "tam_Based_onITDP_UC_Da_61f1fb06.csv"
+        }
+    },
+    "Region: EU": {
+        "Baseline Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data - URBAN MOBILITY- Baseline": "tam_Based_onITDP_UC_Da_a43fe51e.csv"
+        },
+        "Ambitious Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data -URBAN MOBILITY- High shift": "tam_Based_onITDP_UC_Da_61f1fb06.csv"
+        }
+    },
+    "Region: USA": {
+        "Baseline Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data - URBAN MOBILITY- Baseline": "tam_Based_onITDP_UC_Da_a43fe51e.csv"
+        },
+        "Ambitious Cases": {
+            "Based onITDP - UC Davis (2015)  A Global High Shift Cycling Scenario Updated Report Data -URBAN MOBILITY- High shift": "tam_Based_onITDP_UC_Da_61f1fb06.csv"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Baseline Cases": {
+        "Based on Smith et al (2014) 3rd IMO GHG Study - from Fig 82, 83 on P138, P139 (Max range) combined with UNCTAD 2018 International Maritime Data to 2018": "tam_bon_Smith_et_al_20_2601563b.csv",
+        "Based on Buhaug et al, (2009) 2nd IMO GHG Study - Table 7.4-7.6 pg 94-95 (Max Values) combined with UNCTAD 2018 International Maritime Data to 2018": "tam_bon_Buhaug_et_al_2_39d8e0ff.csv",
+        "Based on  RACE Project (2013) Current Transport Demand and Global Transport Outlook. Report D5.1, Table 30 pg 126, EU FP7 314753 (Max range) Table 30 pg 126 combined with UNCTAD 2018 International Maritime Data to 2018": "tam_bon_RACE_Project_2_84dc5d9c.csv"
+    },
+    "Ambitious Cases": {
+        "Based on Smith et al (2014) 3rd IMO GHG Study - from Fig 82, 83 on P138, P139 (Min range) combined with UNCTAD 2018 International Maritime Data to 2018": "tam_bon_Smith_et_al_20_178d6acf.csv",
+        "Based on Buhaug et al, (2009) 2nd IMO GHG Study - Table 7.4-7.6 pg 94-95 (Min Values) combined with UNCTAD 2018 International Maritime Data to 2018": "tam_bon_Buhaug_et_al_2_723d9120.csv",
+        "Based on  RACE Project (2013) Current Transport Demand and Global Transport Outlook. Report D5.1, Table 30 pg 126, EU FP7 314753 (Min range) Table 30 pg 126 combined with UNCTAD 2018 International Maritime Data to 2018": "tam_bon_RACE_Project_2_a57fcfed.csv"
+    },
+    "Maximum Cases": {
+        "OPRF (2008) Study On Worlds Changing Maritime Industry Pg 30 Appdx 1 combined with UNCTAD 2018 International Maritime Data to 2018": "tam_OPRF_2008_Study_On_925b90e8.csv"
+    }
+}
