@@ -44,7 +44,7 @@ setup(
     exclude = ['limbo', 'test'],
   ),
   install_requires=list_package_dependencies(),
-  url='https://github.com/ProjectDrawdown/solutions',
+  url='https://github.com/Global-Solutions-Alliance/solutions',
   license='LICENSE',
   long_description=open('README.md').read(),
 )

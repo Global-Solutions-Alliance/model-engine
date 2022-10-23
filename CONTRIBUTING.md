@@ -1,6 +1,6 @@
-# Contributing to Project Drawdown Solutions
+# Contributing to Global Solutions Alliance Solutions
 
-Welcome to the Project Drawdown Solutions repository! We're excited that you're here and want to help
+Welcome to the Global Solutions Alliance Solutions repository! We're excited that you're here and want to help
 with solutions to climate change.   These guidelines are intended to make it as easy as possible 
 to get involved. If you have any questions that aren't discussed below, please let us know by 
 [opening an issue](https://github.com/ProjectDrawdown/solutions/issues)!
@@ -8,12 +8,12 @@ to get involved. If you have any questions that aren't discussed below, please l
 If you are new to git and/or the github process for contributions,
 [Collaborating with Pull Requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
 is a great reference for the model that we follow.
-We appreciate all contributions to Project Drawdown Solutions, but following those guidelines should make the
+We appreciate all contributions to Global Solutions Alliance Solutions, but following those guidelines should make the
 process easier for everyone.
 
 ## Finding Items in the Issues List
 
-The [Issues List](https://github.com/ProjectDrawdown/solutions/issues) is where we keep work items that are not
+The [Issues List](https://github.com/Global-Solutions-Alliance/solutions/issues) is where we keep work items that are not
 started or are currently in progress.   The tags used in the list vary over time, but there are a couple of tags that are
 useful to know when you are getting started:
 
@@ -63,7 +63,7 @@ interested in participating in this work, please [fill out this form](https://fo
 
 ## Review Process
 
-In addition to the normal code review which any pull request will undergo, changes which augment or modify the analytical functionality of the models will need to be approved by Project Drawdown research team before being accepted into the repository.   Advance discussion with the development team will help us set up
+In addition to the normal code review which any pull request will undergo, changes which augment or modify the analytical functionality of the models will need to be approved by Global Solutions Alliance research team before being accepted into the repository.   Advance discussion with the development team will help us set up
 the research review in a timely manner.
 
 
