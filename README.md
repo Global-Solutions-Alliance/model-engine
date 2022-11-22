@@ -1,22 +1,14 @@
-## Documentation
+# Global Solution Alliance Software Interface
 
-https://projectdrawdown.github.io/solutions
+The Global Solutions Alliance (GSA) is an international nonprofit organization (based in the USA) composed of individual and organizational stakeholders aligned around a commitment to collective impact and creating holistic models to inspire and inform action. Through comprehensive, scientific data-driven tools collaboratively designed for use by policy makers, investors, NGOs and other on-the-ground decision-makers, change agents will be able to accelerate their work to solve global warming and secure reliable prosperity for communities in mutually beneficial relationships with the natural environment. 
 
-# Project Drawdown Model Engine
+The founding members of the GSA are Regenerative Intelligence PB LLC, CoLab Cooperative, Buckminster Fuller Institute, The World Fund, The Global Council for Science and the Environment, Grounded, Future Horizon/Future Quest and Sacred Headwaters of the Amazon.
 
-[Project Drawdown](https://www.drawdown.org/) is the most comprehensive plan yet published for how to solve Global Warming. Project Drawdown entered the climate conversation with the [publication of the 2017 book](https://www.drawdown.org/the-book). With [The Drawdown Review in 2020](https://drawdown.org/drawdown-framework/drawdown-review-2020), the project continues its mission to inspire and communicate solutions.
+The GSA originated from the recognition that cooperation in a system is integral to creating conditions for life to thrive. Rather than reinventing the wheel, which only stagnates implementation, leads to confusion, and slows progress, the GSA is an evolving ecosystem of partners that are committed to working together in mutually beneficial ways that support the emergence of regenerative economic and social systems. Addressing the global emergencies of warming, climate chaos, ecocide and species extinction requires humanity to move beyond siloed-thinking and work in-parallel towards a future that benefits all. 
 
-<img align="right" src="Documentation/images/DrawdownReview2020.gif" />
+Our collective work always begins with rigorous research and analysis to identify the most impactful systemic solutions benefitting people and the planet. The GSA ecosystem of organizations, researchers, and contributors work together to create and maintain a solutions-orientated knowledge commons and accompanying tools hosted on the Solutions Collaboratory (‘Collaboratory’): a free and open source digital public good designed by and for the planet’s solutionists. 
 
-The Project Drawdown models are, at their core, economic models which estimate the total global and regional demand for each solution and the percentage of that demand each year which might adopt the Drawdown solution. The monetary and emissions impacts of that adoption are then calculated.  The framework and methodology for the model was developed by a core research team at Project Drawdown with senior research fellows and visiting researchers from each of the relevant solution domains, over the course of a number of years. The models were originally constructed in some ~80 Excel files.
-
-This repository is a conversion of the original Excel models into python.  This includes both the analytical parts of the model, and the summary data used to produce key results.
-Our goal is to enable:
-   + ongoing research by Project Drawdown and other researchers
-   + use of this research in other projects, including a broader audience of policy makers, business leaders, and other interested parties.
-Future updates to the research will be published in this repository.
-
-Whilst this repo covers the model and analytics in the form of a python library, our [sister project](https://github.com/ProjectDrawdown/global-research-platform) develops that into a server-based solution and a researcher-aimed UI.
+The Collaboratory serves as an open, objective, independent platform and community bringing the best available information and data to the fingertips of global change agents implementing solutions to the climate crisis, biodiversity loss, poverty and hunger, gender inequality, health and well-being, and regenerative economic growth.  
 
 ## Status
 
@@ -28,9 +20,9 @@ Conversion Status:
   * The overall integration between multiple solution models (used to model, for example, the impact of adopton of one solution on demand for another) is work in progress.
 
 Other work in progress:
-  * Continuing work to make the interfaces more accessible to folks outside the Project Drawdown community, both in terms of code improvements and documentation.
+  * Continuing work to make the interfaces more accessible to folks outside the Global Solution Alliance community, both in terms of code improvements and documentation.
 
-For a more detailed list, see the [Issues List](https://github.com/ProjectDrawdown/solutions/issues).
+For a more detailed list, see the [Issues List](https://github.com/Global-Solutions-Alliance/model-engine/issues).
 
 ---
 # Using the PDME
@@ -79,41 +71,41 @@ A more minimal environment is available for deployment using [pip](https://pip.p
 Python 3.9 is required.
 
 
-### Using Project Drawdown Solutions as a package
+### Using GSA Model Engine as a package
 
 If you would like to use this project as a dependency in _your_ code, you can do so by including the following line in your requirements.txt file:
 
 ```
-      git+git://github.com/ProjectDrawdown/solutions@develop
+      git+git://github.com/Global-Solutions-Alliance/model-engine@develop
 ```
 
 
 ## Documentation
 
-The main code documentation can be found at [https://projectdrawdown.github.io/solutions](https://projectdrawdown.github.io/solutions).  Additional documentation and some examples are in the [Documentation](https://github.com/ProjectDrawdown/solutions/tree/develop/Documentation) folder.
+The main code documentation can be found at the [Documentation](https://github.com/Global-Solutions-Alliance/model-engine/tree/develop/Documentation) folder.
 
 ---
 
 ## License
-The python code for the model engine is licensed under the GNU Affero General Public license and subject to the license terms in the LICENSE file found in the top-level directory of this distribution and at [https://github.com/ProjectDrawdown/solutions](https://github.com/ProjectDrawdown/solutions). No part of this Project, including this file, may be copied, modified, propagated, or distributed except according to the terms contained in the LICENSE file.
 
-Data supplied from Project Drawdown (mostly in the form of CSV files) is licensed under the [CC-BY-NC-2.0](https://creativecommons.org/licenses/by-nc/2.0/) license for non-commercial use. The code for the model can be used (under the terms of the AGPL) to process whatever data the user wishes under whatever license the data carries. The data supplied for the Project Drawdown solutions is CC-BY-NC-2.0.
+The python code for the collaboratory is licensed under the GNU Affero General Public license and subject to the license terms in the LICENSE file. No part of this Project, including this file, may be copied, modified, propagated, or distributed except according to the terms contained in the LICENSE file.
+
+Data supplied (mostly in the form of CSV files) is licensed under the [CC-BY-NC-2.0](https://creativecommons.org/licenses/by-nc/2.0/) license for non-commercial use. The code for the model can be used (under the terms of the AGPL) to process whatever other data the user wishes under whatever license those data carry.
+
+---
 
 ## Support
-Please use the [Issues List](https://github.com/ProjectDrawdown/solutions/issues) to report any bugs you find, or ask any
+Please use the [Issues List](https://github.com/Global-Solutions-Alliance/model-engine/issues) to report any bugs you find, or ask any
 questions you have.
 
 
 ## Contributing
 We would love to have your help.
-Please see [CONTRIBUTING.md](https://github.com/ProjectDrawdown/solutions/blob/develop/CONTRIBUTING.md) for guidelines for contributing to this project.
+Please see [CONTRIBUTING.md](https://github.com/Global-Solutions-Alliance/model-engine/blob/develop/CONTRIBUTING.md) for guidelines for contributing to this project.
 
 ## Acknowledgements
 
-Many thanks to the contributors of the &lt;code&gt;earth hackathon held at the Internet Archive on Sept. 5, 6, and 7 of 2018 which began this project. They are: Owen Barton, Robert L. Read, Denton Gentry, Henry Poole, Greg Elin, Marc Jones, and Stephanie Liu, in addition to Project Drawdown scientists and volunteers, Ryan Allard, Catherine Foster, Chad Frischmann, Kevin Bayuk, and Nick Peters.
-
-Huge thanks to Beni Bienz of The Climate Foundation for his work in implementing a substantial portion of the original system, and even huger thanks to Denton Gentry for the majority of the subsequent development.
-
+The initial versions of these repos were ported from those of Project Drawdown, which are in the public domain.
 
 ## Contact
 

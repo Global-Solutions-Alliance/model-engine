@@ -34,7 +34,7 @@ def list_package_dependencies():
   return required
 
 setup(
-  name='drawdown-solutions',
+  name='gsa-model-engine',
   version='1.0',
   description='TODO: add short description',
   package_data = {

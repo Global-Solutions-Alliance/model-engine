@@ -1,19 +1,25 @@
-# Contributing to Project Drawdown Solutions
+# Contributing to Global Solution Alliance Software Model Engine
 
-Welcome to the Project Drawdown Solutions repository! We're excited that you're here and want to help
-with solutions to climate change.   These guidelines are intended to make it as easy as possible 
-to get involved. If you have any questions that aren't discussed below, please let us know by 
-[opening an issue](https://github.com/ProjectDrawdown/solutions/issues)!
+Welcome to the GSA Software Interface repository! We're excited that you're here and want to help
+with solutions to climate change.
 
-If you are new to git and/or the github process for contributions,
-[Collaborating with Pull Requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
-is a great reference for the model that we follow.
-We appreciate all contributions to Project Drawdown Solutions, but following those guidelines should make the
-process easier for everyone.
+These guidelines are designed to make it as easy as possible to get involved. If you have any
+questions that aren't discussed below, please let us know by opening an [issue][link_issues]!
+
+Before you start you'll need to set up a free [GitHub][link_github] account and sign in. Here are some
+[instructions][link_signupinstructions]. If you are not familiar with version control systems such as git,
+[introductions and tutorials](http://www.reproducibleimaging.org/module-reproducible-basics/02-vcs/)
+may be found on [ReproducibleImaging.org](https://www.reproducibleimaging.org/).
+
+Already know what you're looking for in this guide? Jump to the following sections:
+* [Understanding issue labels](#issue-labels)
+* [Making a change](#making-a-change)
+* [Notes for new code](#notes-for-new-code)
+* [Recognizing contributions](#recognizing-contributions)
 
 ## Finding Items in the Issues List
 
-The [Issues List](https://github.com/ProjectDrawdown/solutions/issues) is where we keep work items that are not
+The [Issues List](https://github.com/Global-Solutions-Alliance/model-engine/issues) is where we keep work items that are not
 started or are currently in progress.   The tags used in the list vary over time, but there are a couple of tags that are
 useful to know when you are getting started:
 
@@ -31,7 +37,7 @@ but we would be super excited if someone else could.
 ## Current Development Priorities and Plans
 
 Our current development priorities and plans are maintained in 
-[the project wiki](https://github.com/ProjectDrawdown/solutions/wiki).
+[the project wiki](https://github.com/Global-Solutions-Alliance/model-engine/wiki).
 Look here for updates on what has happened and what is coming up.
 
 ## Proposing new Work
@@ -63,7 +69,7 @@ interested in participating in this work, please [fill out this form](https://fo
 
 ## Review Process
 
-In addition to the normal code review which any pull request will undergo, changes which augment or modify the analytical functionality of the models will need to be approved by Project Drawdown research team before being accepted into the repository.   Advance discussion with the development team will help us set up
+In addition to the normal code review which any pull request will undergo, changes which augment or modify the analytical functionality of the models will need to be approved by Global Solution Alliance research team before being accepted into the repository.   Advance discussion with the development team will help us set up
 the research review in a timely manner.
 
 
