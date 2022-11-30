@@ -1,4 +1,4 @@
-# Global Solution Alliance Software Interface
+# Global Solution Alliance Model Engine
 
 The Global Solutions Alliance (GSA) is an international nonprofit organization (based in the USA) composed of individual and organizational stakeholders aligned around a commitment to collective impact and creating holistic models to inspire and inform action. Through comprehensive, scientific data-driven tools collaboratively designed for use by policy makers, investors, NGOs and other on-the-ground decision-makers, change agents will be able to accelerate their work to solve global warming and secure reliable prosperity for communities in mutually beneficial relationships with the natural environment. 
 
