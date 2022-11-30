@@ -14,7 +14,7 @@ The Collaboratory serves as an open, objective, independent platform and communi
 
 Conversion Status:
   * Almost all of the solutions (technologies) have been converted.
-  * New solutions are converted as they become released from Project Drawdown research.
+  * New solutions are converted as they become available
   * Core calculations (used to generate the core results) are completed
   * Most of the "secondary calculations" (which are used to do solution-specific generation of, e.g. emissions factors or adoption estimates) are _not_ yet implemented.
   * The overall integration between multiple solution models (used to model, for example, the impact of adopton of one solution on demand for another) is work in progress.
@@ -25,7 +25,7 @@ Other work in progress:
 For a more detailed list, see the [Issues List](https://github.com/Global-Solutions-Alliance/model-engine/issues).
 
 ---
-# Using the PDME
+# Using the Model
 
 ## Getting the source code
 
@@ -109,5 +109,5 @@ The initial versions of these repos were ported from those of Project Drawdown, 
 
 ## Contact
 
-Denise Draper (draperd@acm.org) is currently the technical point of contact for this project.
+CoLab Cooperative (gsa@colab.coop) is currently the technical point of contact for this project.
 
